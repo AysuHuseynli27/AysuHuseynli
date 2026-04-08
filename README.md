@@ -28,9 +28,9 @@
 
 ### 📊 Github Status
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AysuHuseynli27&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AysuHuseynli27&layout=compact&theme=tokyonight" />
-</div
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AysuHuseynli27&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AysuHuseynli27&layout=compact&theme=tokyonight&hide_border=false" />
+</div>
 
 
 ---
