@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Aysu%20Huseynli&fontSize=70&animation=fadeIn" alt="Header" />
   
-  <h1>Namaste 🙏 I'm Aysu Huseynli</h1>
+  <h1> I'm Aysu Huseynli</h1>
 </div>
 
 <div align="center">
@@ -36,7 +36,7 @@
 
 ### 👨‍💻 Languages & tools I Have placed My Hands On
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,pandas,html,css,js,github,git,vscode,pycharm,linux,discord,bots,replit" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,pandas,html,css,js,github,git,vscode" />
 </div>
 
 ---
@@ -59,7 +59,6 @@
   <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
