@@ -36,7 +36,7 @@
 
 ### 👨‍💻 Languages & tools I Have placed My Hands On
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,pandas,html,css,js,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,pandas,html,css,js,github,git" />
 </div>
 
 ---
