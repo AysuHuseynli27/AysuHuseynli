@@ -45,10 +45,10 @@
 ### ⭐ Best Repositories
 <div align="center">
   <a href="https://github.com/AysuHuseynli27/Crypto-ETL-Pipeline">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AysuHuseynli27&repo=Crypto-ETL-Pipeline&theme=tokyonight" />
+    <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AysuHuseynli27&repo=Crypto-ETL-Pipeline&theme=tokyonight" />
   </a>
   <a href="https://github.com/AysuHuseynli27/AysuHuseynli27">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AysuHuseynli27&repo=AysuHuseynli27&theme=tokyonight" />
+    <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AysuHuseynli27&repo=AysuHuseynli27&theme=tokyonight" />
   </a>
 </div>
 
