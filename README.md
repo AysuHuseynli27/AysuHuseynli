@@ -42,18 +42,6 @@
 
 ---
 
-### ⭐ Best Repositories
-<div align="center">
-  <a href="https://github.com/AysuHuseynli27/Crypto-ETL-Pipeline">
-    <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AysuHuseynli27&repo=Crypto-ETL-Pipeline&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/AysuHuseynli27/AysuHuseynli27">
-    <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AysuHuseynli27&repo=AysuHuseynli27&theme=tokyonight" />
-  </a>
-</div>
-
----
-
 ### 🛠 Tech Stack:
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
