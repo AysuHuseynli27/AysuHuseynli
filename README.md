@@ -40,7 +40,11 @@
 ---
 
 ### 👨‍💻 Languages & tools I Have placed My Hands On
-[![My Skills](https://skillicons.dev/icons?i=python,sql,github,js,html,css,pyv,pandas)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,github,js,html,css,git,linux" />
+  </a>
+</p>
 ---
 
 ### 🛠 Tech Stack:
