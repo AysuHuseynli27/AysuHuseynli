@@ -12,9 +12,13 @@
 
 ### 💫 About Me
 🏗️ Data Engineer & Backend Developer
+
 🐍 Focused on Python, SQL & Databricks
+
 ⚙️ Building scalable ETL Pipelines
+
 🎯 Aiming for international remote roles
+
 🧠 Developing automated data solutions
 
 ### 🤝 Connect me:
