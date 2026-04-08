@@ -56,9 +56,8 @@
 
 ---
 
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AysuHuseynli27/AysuHuseynli27/output/github-contribution-grid-snake.svg" />
+### 🐍 Contribution Snakediv align="center">
+  <img src="https://raw.githubusercontent.com/AysuHuseynli27/AysuHuseynli27/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
