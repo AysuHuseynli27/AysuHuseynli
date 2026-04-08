@@ -27,9 +27,9 @@
 ---
 
 ### 📊 Github Status
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AysuHuseynli27&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AysuHuseynli27&layout=compact&theme=tokyonight&hide_border=false" />
+div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AysuHuseynli27&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AysuHuseynli27&layout=compact&theme=tokyonight" />
 </div>
 
 ---
