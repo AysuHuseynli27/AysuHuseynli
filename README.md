@@ -11,15 +11,11 @@
 </div>
 
 ### 💫 About Me
--🏗️ Data Engineer & Backend Developer
-
--🐍 Focused on Python, SQL, and databricks 
-
--⚙️ Building scalable ETL Pipelines
-
--🎯 Aiming for international remote opportunities
-
--🧠 Developing automated data solution 
+ *🏗️ Data Engineer & Backend Developer
+ *🐍 Focused on Python, SQL, and databricks 
+ *⚙️ Building scalable ETL Pipelines
+ *🎯 Aiming for international remote opportunities
+ *🧠 Developing automated data solution 
 
 ### 🤝 Connect me:
 <div align="left">
